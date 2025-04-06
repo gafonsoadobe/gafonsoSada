@@ -1,6 +1,6 @@
 mountpoints:
   #/: https://drive.google.com/drive/folders/1OulF2dpGr3f_1YVlRpuzhyVuQKCHOc1k 
   /:
-    url: https://author-p91961-e1404551.adobeaemcloud.com/bin/franklin.delivery/gafonsoadobe/gafonsoSada/main
+    url: https://author-p91961-e1404551.adobeaemcloud.com/bin/franklin.delivery/gafonsoadobe/oTempo/main
     type: markup
     suffix: ".html"
